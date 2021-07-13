@@ -494,7 +494,7 @@
 
     <!-- Height of the status bar -->
     <dimen name="status_bar_height_portrait">89.0px</dimen>
-    <dimen name="status_bar_height_landscape">24.0dp</dimen>
+    <dimen name="status_bar_height_landscape">89.0dp</dimen>
 
     <!-- List of biometric sensors on the device, in decreasing strength. Consumed by AuthService
          when registering authenticators with BiometricService. Format must be ID:Modality:Strength,
